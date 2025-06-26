@@ -1,0 +1,72 @@
+[
+  {
+    "name": "MacBook Pro 14",
+    "price": 1999,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "Dell XPS 13",
+    "price": 1299,
+    "featured": false,
+    "rating": 4.7,
+    "company": "dell"
+  },
+  {
+    "name": "Lenovo ThinkPad X1",
+    "price": 1399,
+    "featured": true,
+    "rating": 4.9,
+    "company": "lenovo"
+  },
+  {
+    "name": "Surface Laptop 5",
+    "price": 999,
+    "featured": false,
+    "rating": 4.6,
+    "company": "marcos"
+  },
+  {
+    "name": "MacBook Air M2",
+    "price": 1199,
+    "featured": true,
+    "rating": 4.95,
+    "company": "apple"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "price": 799,
+    "featured": false,
+    "rating": 4.2,
+    "company": "dell"
+  },
+  {
+    "name": "Lenovo Yoga 7i",
+    "price": 899,
+    "featured": true,
+    "rating": 4.4,
+    "company": "lenovo"
+  },
+  {
+    "name": "Mac Studio",
+    "price": 1999,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "Dell G15 Gaming",
+    "price": 1099,
+    "featured": false,
+    "rating": 4.3,
+    "company": "dell"
+  },
+  {
+    "name": "Lenovo Legion 5",
+    "price": 1249,
+    "featured": true,
+    "rating": 4.7,
+    "company": "lenovo"
+  }
+]
