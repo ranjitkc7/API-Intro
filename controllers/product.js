@@ -1,5 +1,14 @@
+const Product = require("../models/products");
+
 const getAllProducts = async (req, res) => {
-  res.status(200).json({ message: "Get all products route" });
+  const { company } = req.query;
+  const queryObject = {};
+
+  if (company) {
+    queryObject.company = company;
+  }
+  const myProducts = await Product.find(queryObject);
+  res.status(200).json({ myProducts });
 };
 
 const getTest = async (req, res) => {
