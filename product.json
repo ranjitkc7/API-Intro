@@ -1,6 +1,6 @@
 [
   {
-    "name": "MacBook Pro 14",
+    "name": "iphone12",
     "price": 1999,
     "featured": true,
     "rating": 4.8,
@@ -28,7 +28,7 @@
     "company": "marcos"
   },
   {
-    "name": "MacBook Air M2",
+    "name": "iphone",
     "price": 1199,
     "featured": true,
     "rating": 4.95,
@@ -42,14 +42,14 @@
     "company": "dell"
   },
   {
-    "name": "Lenovo Yoga 7i",
+    "name": "Lenov01",
     "price": 899,
     "featured": true,
     "rating": 4.4,
     "company": "lenovo"
   },
   {
-    "name": "Mac Studio",
+    "name": "iphone 13",
     "price": 1999,
     "featured": true,
     "rating": 4.9,
@@ -63,7 +63,7 @@
     "company": "dell"
   },
   {
-    "name": "Lenovo Legion 5",
+    "name": "Lenov01",
     "price": 1249,
     "featured": true,
     "rating": 4.7,
